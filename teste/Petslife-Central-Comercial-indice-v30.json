@@ -1,0 +1,146 @@
+{
+  "titulo": "Central Comercial Petslife — índice de materiais",
+  "versao": 30,
+  "origem": "https://petslife-central-catalogos.jonjardim.chatgpt.site/",
+  "observacao": "Links hospedados na Central Comercial. Os catálogos em PDF estão repartidos; use consultaUrl para visualizar/baixar o PDF completo. partesUrl são arquivos técnicos, não PDFs independentes.",
+  "catalogos": [
+    {
+      "laboratorio": "AGROLIFE",
+      "titulo": "Agrolife - Catálogo web.pdf",
+      "regioes": [
+        "RS",
+        "PR",
+        "SC",
+        "SP",
+        "RJ",
+        "MG"
+      ],
+      "ultimaAtualizacao": "2026-07-16T15:21:50.000Z",
+      "capaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/covers/agrolife.jpg",
+      "consultaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/#catalogos",
+      "partesUrl": [
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/agrolife-01.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/agrolife-02.part"
+      ],
+      "nota": "O PDF é reunido pelo site ao selecionar Visualizar ou Baixar PDF."
+    },
+    {
+      "laboratorio": "AVERT",
+      "titulo": "Avert_CatalogoProdutos_DIGITAL.pdf",
+      "regioes": [
+        "RS",
+        "SP",
+        "RJ"
+      ],
+      "ultimaAtualizacao": "2026-09-10T13:51:36.000Z",
+      "capaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/covers/avert.jpg",
+      "consultaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/#catalogos",
+      "partesUrl": [
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/avert-01.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/avert-02.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/avert-03.part"
+      ],
+      "nota": "O PDF é reunido pelo site ao selecionar Visualizar ou Baixar PDF."
+    },
+    {
+      "laboratorio": "CEVA",
+      "titulo": "CEVA - CATÁLOGO - 22.09.pdf",
+      "regioes": [
+        "RS"
+      ],
+      "ultimaAtualizacao": "2026-09-22T20:56:11.728Z",
+      "capaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/covers/ceva.jpg",
+      "consultaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/#catalogos",
+      "partesUrl": [
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ceva-01.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ceva-02.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ceva-03.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ceva-04.part"
+      ],
+      "nota": "O PDF é reunido pelo site ao selecionar Visualizar ou Baixar PDF."
+    },
+    {
+      "laboratorio": "ELANCO",
+      "titulo": "Memento Distribuidores_Elanco 28.07.pdf",
+      "regioes": [
+        "PR",
+        "RJ"
+      ],
+      "ultimaAtualizacao": "2026-07-28T17:40:14.000Z",
+      "capaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/covers/elanco.jpg",
+      "consultaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/#catalogos",
+      "partesUrl": [
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-01.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-02.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-03.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-04.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-05.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-06.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-07.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-08.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-09.part"
+      ],
+      "nota": "O PDF é reunido pelo site ao selecionar Visualizar ou Baixar PDF."
+    },
+    {
+      "laboratorio": "OUROFINO",
+      "titulo": "OUROFINO-ABRIL (1).pdf",
+      "regioes": [
+        "RS",
+        "SC",
+        "MG"
+      ],
+      "ultimaAtualizacao": "2026-05-15T14:42:57.000Z",
+      "capaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/covers/ourofino.jpg",
+      "consultaUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/#catalogos",
+      "partesUrl": [
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-01.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-02.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-03.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-04.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-05.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-06.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-07.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-08.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-09.part",
+        "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/ourofino-10.part"
+      ],
+      "nota": "O PDF é reunido pelo site ao selecionar Visualizar ou Baixar PDF."
+    }
+  ],
+  "campanhas": [
+    {
+      "titulo": "Vendedor Elite — Edição Caribe",
+      "laboratorio": "PETSLIFE",
+      "ultimaAtualizacao": "2026-09-09T20:25:23.000Z",
+      "arquivoUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/caribe.jpg",
+      "campanhaUrl": "https://www.petslife.vet.br/vendedor-de-elite/"
+    }
+  ],
+  "promocoes": [
+    {
+      "titulo": "Agrolife na Expovet",
+      "laboratorio": "AGROLIFE",
+      "ultimaAtualizacao": "2026-09-10T14:30:39.000Z",
+      "arquivoUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/agrolife-expovet.png",
+      "regioes": [
+        "MG"
+      ]
+    },
+    {
+      "titulo": "Elanco — compre e ganhe",
+      "laboratorio": "ELANCO",
+      "ultimaAtualizacao": "2026-08-20T17:57:43.000Z",
+      "arquivoUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/elanco-compre-e-ganhe.png",
+      "regioes": []
+    }
+  ],
+  "apoioEDivulgacoes": [
+    {
+      "titulo": "Wellpet — material para WhatsApp",
+      "laboratorio": "OUROFINO",
+      "ultimaAtualizacao": "2026-08-10T18:22:46.000Z",
+      "arquivoUrl": "https://petslife-central-catalogos.jonjardim.chatgpt.site/materials/wellpet.png"
+    }
+  ]
+}
